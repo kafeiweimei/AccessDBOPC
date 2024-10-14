@@ -23,4 +23,4 @@
 
 ### 2.2、项目运行演示
 
-![Access数据库操作的完整源码工程和示例效果]([F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Access数据库操作的完整源码工程和示例效果.gif](https://github.com/kafeiweimei/AccessDBOPC/blob/main/Access%E6%95%B0%E6%8D%AE%E5%BA%93%E6%93%8D%E4%BD%9C%E7%9A%84%E5%AE%8C%E6%95%B4%E6%BA%90%E7%A0%81%E5%B7%A5%E7%A8%8B%E5%92%8C%E7%A4%BA%E4%BE%8B%E6%95%88%E6%9E%9C.gif))
+![Access数据库操作的完整源码工程和示例效果](https://github.com/kafeiweimei/AccessDBOPC/blob/main/Access%E6%95%B0%E6%8D%AE%E5%BA%93%E6%93%8D%E4%BD%9C%E7%9A%84%E5%AE%8C%E6%95%B4%E6%BA%90%E7%A0%81%E5%B7%A5%E7%A8%8B%E5%92%8C%E7%A4%BA%E4%BE%8B%E6%95%88%E6%9E%9C.gif)
