@@ -1,0 +1,298 @@
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.exe
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.deps.json
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.runtimeconfig.json
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.runtimeconfig.dev.json
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.pdb
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\LiteDBHelper.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Interop.ADOX.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\LiteDBHelper.pdb
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.csprojAssemblyReference.cache
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.csproj.CoreCompileInputs.cache
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.AssemblyInfoInputs.cache
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.AssemblyInfo.cs
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.csproj.CopyComplete
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.pdb
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.genruntimeconfig.cache
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Interop.ADOX.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Interop.ADODB.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.csproj.ResolveComReference.cache
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Interop.ADODB.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.exe
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.deps.json
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.runtimeconfig.json
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.pdb
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\LiteDBHelper.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Interop.ADOX.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\LiteDBHelper.pdb
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Interop.ADODB.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Interop.ADOX.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Interop.ADODB.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.csproj.CopyComplete
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.pdb
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.genruntimeconfig.cache
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.exe
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.deps.json
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.runtimeconfig.json
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.runtimeconfig.dev.json
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.pdb
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\LiteDBHelper.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Interop.ADOX.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\LiteDBHelper.pdb
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Interop.ADODB.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.csprojAssemblyReference.cache
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Interop.ADOX.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Interop.ADODB.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.csproj.ResolveComReference.cache
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.csproj.CoreCompileInputs.cache
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.AssemblyInfoInputs.cache
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.AssemblyInfo.cs
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.csproj.CopyComplete
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.pdb
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.genruntimeconfig.cache
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.exe
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.deps.json
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.runtimeconfig.json
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.runtimeconfig.dev.json
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.pdb
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\LiteDBHelper.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Interop.ADOX.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\LiteDBHelper.pdb
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Interop.ADODB.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.csproj.AssemblyReference.cache
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Interop.ADOX.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Interop.ADODB.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.csproj.ResolveComReference.cache
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.GeneratedMSBuildEditorConfig.editorconfig
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.AssemblyInfoInputs.cache
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.AssemblyInfo.cs
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.csproj.CoreCompileInputs.cache
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.csproj.CopyComplete
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.pdb
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.genruntimeconfig.cache
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.exe
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.deps.json
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.runtimeconfig.json
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.runtimeconfig.dev.json
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.pdb
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\LiteDBHelper.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Interop.ADOX.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\LiteDBHelper.pdb
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Interop.ADODB.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.csproj.AssemblyReference.cache
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Interop.ADOX.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Interop.ADODB.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.csproj.ResolveComReference.cache
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.GeneratedMSBuildEditorConfig.editorconfig
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.AssemblyInfoInputs.cache
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.AssemblyInfo.cs
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.csproj.CoreCompileInputs.cache
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.csproj.CopyComplete
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.pdb
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.genruntimeconfig.cache
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.exe
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.deps.json
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.runtimeconfig.json
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.runtimeconfig.dev.json
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Test_LiteDbOpc.pdb
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\LiteDBHelper.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Interop.ADOX.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\LiteDBHelper.pdb
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\bin\Debug\netcoreapp3.1\Interop.ADODB.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.csproj.AssemblyReference.cache
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Interop.ADOX.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Interop.ADODB.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.csproj.ResolveComReference.cache
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.GeneratedMSBuildEditorConfig.editorconfig
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.AssemblyInfoInputs.cache
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.AssemblyInfo.cs
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.csproj.CoreCompileInputs.cache
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.sourcelink.json
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.csproj.CopyComplete
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.pdb
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\Test_LiteDbOpc\obj\Debug\netcoreapp3.1\Test_LiteDbOpc.genruntimeconfig.cache

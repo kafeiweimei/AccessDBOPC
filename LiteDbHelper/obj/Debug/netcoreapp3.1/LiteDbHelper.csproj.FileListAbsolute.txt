@@ -1,0 +1,88 @@
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.csprojAssemblyReference.cache
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\LiteDbHelper\obj\Debug\netcoreapp3.1\Interop.ADODB.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\LiteDbHelper\obj\Debug\netcoreapp3.1\Interop.ADOX.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.csproj.ResolveComReference.cache
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.csproj.CoreCompileInputs.cache
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.AssemblyInfoInputs.cache
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.AssemblyInfo.cs
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.pdb
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\LiteDbHelper\bin\Debug\netcoreapp3.1\LiteDBHelper.deps.json
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\LiteDbHelper\bin\Debug\netcoreapp3.1\LiteDBHelper.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\LiteDbHelper\bin\Debug\netcoreapp3.1\LiteDBHelper.pdb
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\LiteDbHelper\bin\Debug\netcoreapp3.1\Interop.ADODB.dll
+C:\Users\CoffeeMilk\Desktop\新建文件夹 (2)\test_litedbopc\LiteDbHelper\bin\Debug\netcoreapp3.1\Interop.ADOX.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\LiteDbHelper\bin\Debug\netcoreapp3.1\LiteDBHelper.deps.json
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\LiteDbHelper\bin\Debug\netcoreapp3.1\LiteDBHelper.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\LiteDbHelper\bin\Debug\netcoreapp3.1\LiteDBHelper.pdb
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\LiteDbHelper\bin\Debug\netcoreapp3.1\Interop.ADODB.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\LiteDbHelper\bin\Debug\netcoreapp3.1\Interop.ADOX.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\LiteDbHelper\obj\Debug\netcoreapp3.1\Interop.ADODB.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\LiteDbHelper\obj\Debug\netcoreapp3.1\Interop.ADOX.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.dll
+C:\Users\Administrator\Desktop\测试项目\test_litedbopc\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.pdb
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\LiteDbHelper\bin\Debug\netcoreapp3.1\LiteDBHelper.deps.json
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\LiteDbHelper\bin\Debug\netcoreapp3.1\LiteDBHelper.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\LiteDbHelper\bin\Debug\netcoreapp3.1\LiteDBHelper.pdb
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\LiteDbHelper\bin\Debug\netcoreapp3.1\Interop.ADODB.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\LiteDbHelper\bin\Debug\netcoreapp3.1\Interop.ADOX.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.csprojAssemblyReference.cache
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\LiteDbHelper\obj\Debug\netcoreapp3.1\Interop.ADODB.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\LiteDbHelper\obj\Debug\netcoreapp3.1\Interop.ADOX.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.csproj.ResolveComReference.cache
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.csproj.CoreCompileInputs.cache
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.AssemblyInfoInputs.cache
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.AssemblyInfo.cs
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.dll
+C:\Users\CoffeeMilk\Desktop\Test_LiteDbOpc\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.pdb
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\LiteDbHelper\bin\Debug\netcoreapp3.1\LiteDBHelper.deps.json
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\LiteDbHelper\bin\Debug\netcoreapp3.1\LiteDBHelper.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\LiteDbHelper\bin\Debug\netcoreapp3.1\LiteDBHelper.pdb
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\LiteDbHelper\bin\Debug\netcoreapp3.1\Interop.ADODB.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\LiteDbHelper\bin\Debug\netcoreapp3.1\Interop.ADOX.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.csproj.AssemblyReference.cache
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\LiteDbHelper\obj\Debug\netcoreapp3.1\Interop.ADODB.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\LiteDbHelper\obj\Debug\netcoreapp3.1\Interop.ADOX.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.csproj.ResolveComReference.cache
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.GeneratedMSBuildEditorConfig.editorconfig
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.AssemblyInfoInputs.cache
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.AssemblyInfo.cs
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.csproj.CoreCompileInputs.cache
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.dll
+F:\0-MyCreateCrouse\付费资源\Test_LiteDbOpc\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.pdb
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\LiteDbHelper\bin\Debug\netcoreapp3.1\LiteDBHelper.deps.json
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\LiteDbHelper\bin\Debug\netcoreapp3.1\LiteDBHelper.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\LiteDbHelper\bin\Debug\netcoreapp3.1\LiteDBHelper.pdb
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\LiteDbHelper\bin\Debug\netcoreapp3.1\Interop.ADODB.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\LiteDbHelper\bin\Debug\netcoreapp3.1\Interop.ADOX.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.csproj.AssemblyReference.cache
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\LiteDbHelper\obj\Debug\netcoreapp3.1\Interop.ADODB.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\LiteDbHelper\obj\Debug\netcoreapp3.1\Interop.ADOX.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.csproj.ResolveComReference.cache
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.GeneratedMSBuildEditorConfig.editorconfig
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.AssemblyInfoInputs.cache
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.AssemblyInfo.cs
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.csproj.CoreCompileInputs.cache
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.dll
+F:\0-MyCreateCrouse\付费资源\AccessDBOPC\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.pdb
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\LiteDbHelper\bin\Debug\netcoreapp3.1\LiteDBHelper.deps.json
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\LiteDbHelper\bin\Debug\netcoreapp3.1\LiteDBHelper.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\LiteDbHelper\bin\Debug\netcoreapp3.1\LiteDBHelper.pdb
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\LiteDbHelper\bin\Debug\netcoreapp3.1\Interop.ADODB.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\LiteDbHelper\bin\Debug\netcoreapp3.1\Interop.ADOX.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.csproj.AssemblyReference.cache
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\LiteDbHelper\obj\Debug\netcoreapp3.1\Interop.ADODB.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\LiteDbHelper\obj\Debug\netcoreapp3.1\Interop.ADOX.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.csproj.ResolveComReference.cache
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.GeneratedMSBuildEditorConfig.editorconfig
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.AssemblyInfoInputs.cache
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.AssemblyInfo.cs
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.csproj.CoreCompileInputs.cache
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.sourcelink.json
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.dll
+F:\AllDevelopProjects\AllGithubProjects\AccessDBOPC\LiteDbHelper\obj\Debug\netcoreapp3.1\LiteDBHelper.pdb
